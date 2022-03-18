@@ -11,17 +11,18 @@ img.project-github {
     border: 1px solid black;
     text-align: center;
 }
+
 .about-project {
     width: 75%;
     display: inline-table;
 }
+
 ul {
     text-align: center;
     list-style-position: inside;
 }
 
 h2.project-title {
-
     padding: 0px;
 }
 
@@ -37,6 +38,16 @@ h2.project-title {
 
 img.project-img {
     padding: 10px;
+}
+
+img.vertical {
+    width: 15rem;
+    height: 20rem;
+}
+
+img.landscape {
+    width: 20rem;
+    height: 15rem;
 }
 
 ul.project-challenges {

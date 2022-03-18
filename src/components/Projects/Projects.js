@@ -114,9 +114,9 @@ function Projects() {
           </div>
 
           <div class="project-imgs">
-            <img class="project-img" src={MENU} alt="Main Menu" />
-            <img class="project-img" src={SOLO} alt="Solo Game" />
-            <img class="project-img" src={MULTI} alt="Multiplayer Menu" />
+            <img class="project-img vertical" src={MENU} alt="Main Menu" />
+            <img class="project-img vertical" src={SOLO} alt="Solo Game" />
+            <img class="project-img vertical" src={MULTI} alt="Multiplayer Menu" />
           </div>
         </div>
 
@@ -155,8 +155,8 @@ function Projects() {
           </div>
 
           <div class="project-imgs">
-            <img class="project-img" src={STORE} alt="Store page" />
-            <img class="project-img" src={HOME} alt="Home page" />
+            <img class="project-img landscape" src={STORE} alt="Store page" />
+            <img class="project-img landscape" src={HOME} alt="Home page" />
           </div>
         </div>
       </div>
