@@ -10,13 +10,8 @@ import EDIT from "../../images/Time/editSubjects.png";
 import RECORD from "../../images/Time/recordTimes.png";
 import TOTAL from "../../images/Time/totalTimes.png";
 
-import "./projects.css"
 import ProjectTemplate from "./ProjectTemplate";
 
-const project1Challenges = [
-  "Finding a way to implement a Data Base/server side in a Angular app (The project now uses MongoDB with a Express server)",
-  "Taking into account multiple cases, when it came to editing a session"
-];
 const project2Challenges = [
   "First time using a JS framework and using another one on top",
   "Some logic/general testing in the code with swithcing users"

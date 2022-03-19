@@ -2,8 +2,6 @@ import React from "react";
 import Person from "../../images/me.jpg";
 import fourWheelDrive from "../../images/carBeach.jpg";
 import maheno from "../../images/maheno.jpg";
-import "./home.css";
-
 function Profile() {
     return (
       <div>
