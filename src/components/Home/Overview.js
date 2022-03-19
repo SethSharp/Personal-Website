@@ -1,6 +1,4 @@
 import React from "react";
-
-
 import fourWheelDrive from "../../images/carBeach.jpg";
 
 import "./home.css";
