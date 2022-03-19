@@ -17,7 +17,7 @@ function Links() {
                 <img class="link-img" src={LE} alt="LeetCode" />
             </a>
         </div>
-        
+        <h2> GitHub link to site: Heroku seems not use some of the CSS </h2>
       </div>
     );
 }
