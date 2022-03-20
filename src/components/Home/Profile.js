@@ -16,20 +16,29 @@ function Profile() {
 
             <div class="intro-text">
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Suspendisse venenatis finibus felis eu convallis. Nullam nisi
-                nibh, mollis non commodo vitae, luctus vitae leo. Nam aliquet
-                facilisis dignissim. Nullam vel vestibulum nulla. Nunc vel leo
-                lacus. Nunc fringilla vulputate nibh,
+                Hey, I’m Seth, I am a final year Computer Science student at
+                Griffith University. I love creating projects and the challenge
+                of learning new technologies. As much as I love coding away in
+                my room at night and pulling my hair out when something does not
+                work, I also enjoy camping and hitting the 4WD tracks with my
+                mates and enjoying the outdoors.
               </p>
             </div>
 
             <div class="home-btns">
               <button type="button" class="btn btn-outline-light">
-                Projects
+                <a class="home-link" href="/projects">
+                  Projects
+                </a>
               </button>{" "}
-              <button type="button" class="btn btn-outline-light">
-                Links
+              <button
+                type="button"
+                class="btn btn-outline-light"
+                href="/projects"
+              >
+                <a class="home-link" href="/links">
+                  Links
+                </a>
               </button>{" "}
             </div>
           </div>
@@ -37,7 +46,7 @@ function Profile() {
             <img id="profile-pic" src={Person} alt="CPP" />
           </div>
         </div>
-  
+
         <div class="overview-container">
           <div class="overview-section-1">
             <div class="overview-img">
@@ -45,22 +54,14 @@ function Profile() {
             </div>
             <div class="overview-par">
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Suspendisse venenatis finibus felis eu convallis. Nullam nisi
-                nibh, mollis non commodo vitae, luctus vitae leo. Nam aliquet
-                facilisis dignissim. Nullam vel vestibulum nulla. Nunc vel leo
-                lacus. Nunc fringilla vulputate nibh,
+                
               </p>
             </div>
           </div>
           <div class="overview-section-2">
             <div class="overview-par">
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Suspendisse venenatis finibus felis eu convallis. Nullam nisi
-                nibh, mollis non commodo vitae, luctus vitae leo. Nam aliquet
-                facilisis dignissim. Nullam vel vestibulum nulla. Nunc vel leo
-                lacus. Nunc fringilla vulputate nibh,
+                Throughout my time at University I have worked 
               </p>
             </div>
             <div class="overview-img">

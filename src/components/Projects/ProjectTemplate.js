@@ -10,7 +10,7 @@ class ProjectTemplate extends React.Component {
             <h2 class="project-title">
                 {this.props.title} {" "}
                 <a href={this.props.gitHub}>
-                <img class="project-github" src={GIT} alt="GitHub" />
+                    <img class="project-github" src={GIT} alt="GitHub" />
                 </a>
             </h2>
             <div class="project-overview">
