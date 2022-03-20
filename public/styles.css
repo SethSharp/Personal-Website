@@ -157,6 +157,9 @@ img {
   margin-top: 10%;
 }
 
+.par {
+  margin-top: 5%;
+}
 
 .overview-container {
   width: 80%;
@@ -321,7 +324,7 @@ img.link-img {
   }
 
   .overview-container {
-    margin-top: 100px;
+    margin-top: 140px;
     margin-left: 8%;
   }
 

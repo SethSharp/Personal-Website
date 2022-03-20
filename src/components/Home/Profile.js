@@ -16,12 +16,10 @@ function Profile() {
 
             <div class="intro-text">
               <p>
-                Hey, I’m Seth, I am a final year Computer Science student at
-                Griffith University. I love creating projects and the challenge
-                of learning new technologies. As much as I love coding away in
-                my room at night and pulling my hair out when something does not
-                work, I also enjoy camping and hitting the 4WD tracks with my
-                mates and enjoying the outdoors.
+                Hey, I'm Seth Sharp. I am a final year Computer Science student
+                at Griffith University. Throughout this year I hope to get some
+                real epxerience in the industry and be able to apply what I have
+                learnt and communicate with experienced developers.
               </p>
             </div>
 
@@ -53,15 +51,19 @@ function Profile() {
               <img src={fourWheelDrive} alt="s" />
             </div>
             <div class="overview-par">
-              <p>
-                
+              <p class="par">
+                Studying online for two years has only increased me motivation
+                to get into the industry. I love creating projects and the
+                challenge of learning new technologies.
               </p>
             </div>
           </div>
           <div class="overview-section-2">
             <div class="overview-par">
-              <p>
-                Throughout my time at University I have worked 
+              <p class="par">
+                As much as I love coding away in my room at night and pulling my
+                hair out when something does not work, I also enjoy camping and
+                hitting the 4WD tracks with my mates and enjoying the outdoors.
               </p>
             </div>
             <div class="overview-img">
